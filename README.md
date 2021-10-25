@@ -10,19 +10,17 @@ Time spent: 10 hours spent in total
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ ] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
 The following **optional** features are implemented:
 
-* [ ] UI animations
+* [x] UI animations
 
 The following **additional** features are implemented:
 
-- [ ] User can use the split function by entering the number of parties they want to split between and see the amount each person owes from the total
-- [ ] User can use the reset button to clear all the text fields and start a tip calculation
-- [ ] Added UI Layout
-- [ ] Added themes and styles for UI
+- [x] User can use the split function by entering the number of parties they want to split between and see the amount each person owes from the total
+- [x] Added UI Layout
 
 ## Video Walkthrough
 
